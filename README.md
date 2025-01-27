@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Computer Science Undergraduate Student at the University of Edinburgh
 <!--
 **Isabel-Mansley/Isabel-Mansley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
